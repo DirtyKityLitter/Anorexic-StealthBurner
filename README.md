@@ -1,4 +1,4 @@
-# Anorexic-StealthBurner
+# Skeletonized-StealthBurner
 StealthBurner Skeletonized
 
 This project is aimed at reducing the overall weight of the StealthBurner tool head without sacrificing strength and integrity.
