@@ -9,8 +9,12 @@ So far the updated files have proven useful in reducing some weight.
 
 The below images have both components with heatserts installed. 
 
-**OEM CW2:**
+**OEM CW2:** - Image provided by OldGuyMeltsPlastic
 ![OGMP_both_plates](https://github.com/DirtyKityLitter/Anorexic-StealthBurner/assets/118041236/e54b42db-e94c-4f9f-9377-a8fdf66bca90)
 
-**Skeletonized CW2**
+**Skeletonized CW2** Image provided by DirtyKityLitter
 ![DKL_both_plates](https://github.com/DirtyKityLitter/Anorexic-StealthBurner/assets/118041236/feb884fe-0daa-4e07-9d2f-8140853bf69b)
+
+A 6.492gram weight reduction. (providing both our scales are accurate) DirtyKityLitter and OldGuyMeltsPlastic
+
+
