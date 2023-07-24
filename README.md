@@ -3,7 +3,7 @@ StealthBurner Skeletonized
 
 This project is aimed at reducing the overall weight of the StealthBurner tool head without sacrificing strength and integrity.
 
-![upper cw2 rear](https://github.com/DirtyKityLitter/Anorexic-StealthBurner/assets/118041236/5d28e88a-8d7f-427d-ba20-d74dfe9f519b)
+![upper cw2 rear](https://github.com/DirtyKityLitter/Anorexic-StealthBurner/assets/118041236/160309f7-a1d6-47e7-b30b-4e4c844c4ee9)
 
 So far the updated files have proven useful in reducing some weight.
 
